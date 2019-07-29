@@ -1,7 +1,7 @@
 # svclassifier
 
 # Problem Statement
-Using the [https://www.kaggle.com/nasa/kepler-exoplanet-search-results](NASA Kepler Exoplanet Search Results), fit a predictive model to
+Using the [NASA Kepler Exoplanet Search Results](https://www.kaggle.com/nasa/kepler-exoplanet-search-results), fit a predictive model to
 classify a Kepler Object of Interest (KOI) using the available predictors.
 
 # Methods Used
