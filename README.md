@@ -19,6 +19,8 @@ a MinMax scaling.  Yeo-Johnson transformations are a family of power transformat
 8.  Decision tree classifiers are considered. 
 
 # Summary
+[Jupyter notebook via nbviewer](https://nbviewer.jupyter.org/github/douglasdrake/svclassifier/blob/master/svclassifier.ipynb "Jupyter notebook").
+
 The linear support vector classifier acheives an accuracy of 90% on the training data and 89% on the test data.  The grid search still selects the linear kernel for the classifier when allowed to choose among linear, polynomial, radial-basis, and sigmoidal basis functions.  
 
 Principal component analysis suggests that we could reduce the dimensionality from 31 numerical predictors to 12.  We do not fit models with the PCA reduction at this time; however, plots with the principal component directions do indicate some separation in the class distributions.
